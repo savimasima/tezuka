@@ -91,10 +91,10 @@ const slidesClothes = [
         textclothes: "Vampire Jacket White"
     },
     {
-    imageclothes1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e572ef74ba65735b177ad4_VampireJacketBlack-min.png",
-    imageclothes2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e569a4f143e303c6b169b8_VampireJacketBlack-min.png",
-    imageclothes3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e575384e03f1dcba8e4797_VampireJacketBlack-min.png",
-    textclothes: "Vampire Jacket Black"
+        imageclothes1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e572ef74ba65735b177ad4_VampireJacketBlack-min.png",
+        imageclothes2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e569a4f143e303c6b169b8_VampireJacketBlack-min.png",
+        imageclothes3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e575384e03f1dcba8e4797_VampireJacketBlack-min.png",
+        textclothes: "Vampire Jacket Black"
     }
 ];
 
@@ -127,36 +127,36 @@ document.getElementById("previousclothes").addEventListener("click", previousSli
 document.getElementById("nextclothes").addEventListener("click", nextSlideClothes);
 
 const slidesEye = [
-{
-    imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58186c8053ec1a57acf07_BrownEyes%20(1).png",
-    imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63deccb2d2a0eb80bae280cf_BrownEyes-min.png",
-    texteye: "Brown Eyes"
-},
-{
-    imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581794624c82c19f28fc0_BlueEyes.png",
-    imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bd4e03f12d4b8e99d3_BlueEyes-min.png",
-    texteye: "Blue Eyes"
-},
-{
-    imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581767f6570212051ddd7_GreenEyes.png",
-    imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bfcb847d5c08e7264c_GreenEyes-min.png",
-    texteye: "Green Eyes"
-},
-{
-    imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58178ef314b50eda011ea_LavanderEyes.png",
-    imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bf5e84cdf9ef8ef841_LavanderEyes-min.png",
-    texteye: "Lavander Eyes"
-},
-{
-    imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58187b3443668ca248b60_RedEyes.png",
-    imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c2ab482492e78b0346_RedEyes-min.png",
-    texteye: "Red Eyes"
-},
-{
-    imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e5817ac8053ed8837ace3b_PinkEyes.png",
-    imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c30a9c2e837d739b4b_PinkEyes-min.png",
-    texteye: "Pink Eyes"
-}
+    {
+        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58186c8053ec1a57acf07_BrownEyes%20(1).png",
+        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63deccb2d2a0eb80bae280cf_BrownEyes-min.png",
+        texteye: "Brown Eyes"
+    },
+    {
+        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581794624c82c19f28fc0_BlueEyes.png",
+        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bd4e03f12d4b8e99d3_BlueEyes-min.png",
+        texteye: "Blue Eyes"
+    },
+    {
+        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581767f6570212051ddd7_GreenEyes.png",
+        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bfcb847d5c08e7264c_GreenEyes-min.png",
+        texteye: "Green Eyes"
+    },
+    {
+        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58178ef314b50eda011ea_LavanderEyes.png",
+        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bf5e84cdf9ef8ef841_LavanderEyes-min.png",
+        texteye: "Lavander Eyes"
+    },
+    {
+        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58187b3443668ca248b60_RedEyes.png",
+        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c2ab482492e78b0346_RedEyes-min.png",
+        texteye: "Red Eyes"
+    },
+    {
+        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e5817ac8053ed8837ace3b_PinkEyes.png",
+        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c30a9c2e837d739b4b_PinkEyes-min.png",
+        texteye: "Pink Eyes"
+    }
 ];
 
 let currentSlideEye = 0;
