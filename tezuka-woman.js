@@ -178,13 +178,13 @@ const slidesHairWoman = [
     {
         imagehairwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e990864bd90744ace48e91_YellowBraids.png",
         imagehairwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e98e747c3cf706306615a2_YellowBraids.png",
-        imagehairwoman3: "",
+        imagehairwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63ea2d0c3b0b2e5a54a46656_YellowBraids.png",
         texthairwoman: "Yellow Braids"
     },
     {
         imagehairwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e9908608987e008d0157c8_RedBraids.png",
         imagehairwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e98e715c38f4c7781b63f0_RedBraids.png",
-        imagehairwoman3: "",
+        imagehairwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63ea2d0760030849b8ba33d2_RedBraids.png",
         texthairwoman: "Red Braids"
     },
     {
@@ -196,13 +196,13 @@ const slidesHairWoman = [
     {
         imagehairwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e99084be8e5c58b1e89412_OrangeBraids.png",
         imagehairwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e98e64c21faaa0c7d2734d_OrangeBraids.png",
-        imagehairwoman3: "",
+        imagehairwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63ea2d043b0b2e302fa464ea_OrangeBraids.png",
         texthairwoman: "Orange Braids"
     },
     {
         imagehairwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e9909a1eb4ad9e48f88bfc_BlondeBraids.png",
         imagehairwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e98e61c21faa5fb9d2733c_BlondeBraids.png",
-        imagehairwoman3: "",
+        imagehairwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63ea2d0619957469e544fa9e_BlondeBraids.png",
         texthairwoman: "Blonde Braids"
     },
     {
@@ -331,13 +331,13 @@ const slidesHatWoman = [
     {
         imagehatwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e999828b497e7e725850fa_BucketHatWhite.png",
         imagehatwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e9985f9b7242796eebab35_BucketHatWhite(Braids).png",
-        imagehatwoman3: "",
+        imagehatwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63ea2ceba6a1d2cc46e973e4_BucketHatWhite(Braids).png",
         texthatwoman: "Bucket Hat White"
     },
     {
         imagehatwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e999832d6553483585f611_BucketHatMarron.png",
         imagehatwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e9985e63db5561fd2d31a6_BucketHat(Braids).png",
-        imagehatwoman3: "",
+        imagehatwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63ea2ce7fd8efb3ed42d61cb_BucketHat(Braids).png",
         texthatwoman: "Bucket Hat"
     }
 ];
