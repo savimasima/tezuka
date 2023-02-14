@@ -2,7 +2,7 @@ const slidesBodyWoman = [
     {
         imagebodywoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e5210104666606f6031023_Body1-min%20(1)-min-min.png",
         imagebodywoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e97c55037f3b08dcde6ccc_Body1.png",
-        imagebodywoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e97e8a3f7127308952bea0_Body1.png",
+        imagebodywoman3: "",
         textbodywoman: "Body 1"
     },
     {
