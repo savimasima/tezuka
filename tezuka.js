@@ -1,4 +1,4 @@
-console.log("Hi!");
+alert("Hi!");
 const slidesBody = [
     {
       imagebody1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e5210104666606f6031023_Body1-min%20(1)-min-min.png",
