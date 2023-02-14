@@ -825,34 +825,34 @@ document.getElementById("nexthatwoman").addEventListener("click", nextSlideHatWo
 
 const slidesEyeWoman = [
     {
-        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58186c8053ec1a57acf07_BrownEyes%20(1).png",
-        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63deccb2d2a0eb80bae280cf_BrownEyes-min.png",
-        texteye: "Brown Eyes"
+        imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58186c8053ec1a57acf07_BrownEyes%20(1).png",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63deccb2d2a0eb80bae280cf_BrownEyes-min.png",
+        texteyewoman: "Brown Eyes"
     },
     {
-        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581794624c82c19f28fc0_BlueEyes.png",
-        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bd4e03f12d4b8e99d3_BlueEyes-min.png",
-        texteye: "Blue Eyes"
+        imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581794624c82c19f28fc0_BlueEyes.png",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bd4e03f12d4b8e99d3_BlueEyes-min.png",
+        texteyewoman: "Blue Eyes"
     },
     {
-        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581767f6570212051ddd7_GreenEyes.png",
-        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bfcb847d5c08e7264c_GreenEyes-min.png",
-        texteye: "Green Eyes"
+        imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e581767f6570212051ddd7_GreenEyes.png",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bfcb847d5c08e7264c_GreenEyes-min.png",
+        texteyewoman: "Green Eyes"
     },
     {
-        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58178ef314b50eda011ea_LavanderEyes.png",
-        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bf5e84cdf9ef8ef841_LavanderEyes-min.png",
-        texteye: "Lavander Eyes"
+        imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58178ef314b50eda011ea_LavanderEyes.png",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579bf5e84cdf9ef8ef841_LavanderEyes-min.png",
+        texteyewoman: "Lavander Eyes"
     },
     {
-        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58187b3443668ca248b60_RedEyes.png",
-        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c2ab482492e78b0346_RedEyes-min.png",
-        texteye: "Red Eyes"
+        imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e58187b3443668ca248b60_RedEyes.png",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c2ab482492e78b0346_RedEyes-min.png",
+        texteyewoman: "Red Eyes"
     },
     {
-        imageeye1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e5817ac8053ed8837ace3b_PinkEyes.png",
-        imageeye2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c30a9c2e837d739b4b_PinkEyes-min.png",
-        texteye: "Pink Eyes"
+        imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e5817ac8053ed8837ace3b_PinkEyes.png",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e579c30a9c2e837d739b4b_PinkEyes-min.png",
+        texteyewoman: "Pink Eyes"
     }
 ];
 
@@ -875,9 +875,9 @@ const nextSlideEyeWoman = () => {
 };
 
 const updateSlideEyeWoman = () => {
-    document.getElementById("imageeyewoman1").src = slidesEyeWoman[currentSlideEyeWoman].imageeye1;
-    document.getElementById("imageeyewoman2").src = slidesEyeWoman[currentSlideEyeWoman].imageeye2;
-    document.getElementById("texteyewoman").textContent = slidesEyeWoman[currentSlideEyeWoman].texteye;
+    document.getElementById("imageeyewoman1").src = slidesEyeWoman[currentSlideEyeWoman].imageeyewoman1;
+    document.getElementById("imageeyewoman2").src = slidesEyeWoman[currentSlideEyeWoman].imageeyewoman2;
+    document.getElementById("texteyewoman").textContent = slidesEyeWoman[currentSlideEyeWoman].texteyewoman;
 };
 
 document.getElementById("previouseyewoman").addEventListener("click", previousSlideEyeWoman);
@@ -885,52 +885,52 @@ document.getElementById("nexteyewoman").addEventListener("click", nextSlideEyeWo
 
 const slidesWeaponWoman = [
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e820224bd907ef94c95c19_RedKatana.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8e707380addb1bba84_RedKatana.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237a8c09973b2fb644db_RedKatana.png",
-        textweapon: "Red Katana"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e820224bd907ef94c95c19_RedKatana.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8e707380addb1bba84_RedKatana.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237a8c09973b2fb644db_RedKatana.png",
+        textweaponwoman: "Red Katana"
     },
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82021037f3b042cc5b5b3_BlackKatana.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8954ac2e2a0d7316e3_BlackKatana.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82378037f3bf876c5ef9c_BlackKatana.png",
-        textweapon: "Black Katana"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82021037f3b042cc5b5b3_BlackKatana.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8954ac2e2a0d7316e3_BlackKatana.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82378037f3bf876c5ef9c_BlackKatana.png",
+        textweaponwoman: "Black Katana"
     },
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8201be00682206bfb1fff_LongSwordDark.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8baed3c676073abe73_LongSwordDark.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82379f173055a0dfaf0d4_LongSwordDark.png",
-        textweapon: "Long Sword Dark"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8201be00682206bfb1fff_LongSwordDark.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8baed3c676073abe73_LongSwordDark.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82379f173055a0dfaf0d4_LongSwordDark.png",
+        textweaponwoman: "Long Sword Dark"
     },
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8202b1a7c200525e2594d_Zambatou.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d9a54ac2e1dd8731733_Zambatou.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237deaf85334a6500985_Zambatou.png",
-        textweapon: "Zambatou"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8202b1a7c200525e2594d_Zambatou.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d9a54ac2e1dd8731733_Zambatou.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237deaf85334a6500985_Zambatou.png",
+        textweaponwoman: "Zambatou"
     },
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8202544663b1776f38f17_TezukaBatRed.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8faed3c6e1163abedc_TezukaBat.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237b68e32668a3db75ba_TezukaBat.png",
-        textweapon: "Tezuka Bat"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8202544663b1776f38f17_TezukaBatRed.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8faed3c6e1163abedc_TezukaBat.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237b68e32668a3db75ba_TezukaBat.png",
+        textweaponwoman: "Tezuka Bat"
     },
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8202360afc2d6419b40ce_TezukaBatBlue.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d90037f3b144ec57c15_TezukaBatBlue.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237d54ac2e6c677377e5_TezukaBatBlue.png",
-        textweapon: "Tezuka Bat Blue"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8202360afc2d6419b40ce_TezukaBatBlue.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d90037f3b144ec57c15_TezukaBatBlue.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8237d54ac2e6c677377e5_TezukaBatBlue.png",
+        textweaponwoman: "Tezuka Bat Blue"
     },
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8201d707380c3fc1bdce4_BarbarianSword.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d88bc6a9a75a0aa4089_BarbarianSword.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82376eaf85351e5500793_BarbarianSword.png",
-        textweapon: "Barbarian Sword"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e8201d707380c3fc1bdce4_BarbarianSword.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d88bc6a9a75a0aa4089_BarbarianSword.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82376eaf85351e5500793_BarbarianSword.png",
+        textweaponwoman: "Barbarian Sword"
     },
     {
-        imageweapon1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82020bc6a9a85a6aa69f1_BarbarianSwordGold.png",
-        imageweapon2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8a5cc9360adcc2fe58_BarbarianSwordGold.png",
-        imageweapon3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82374c21faaf557b8b7e2_BarbarianSwordGold.png",
-        textweapon: "Barbarian Sword Gold"
+        imageweaponwoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82020bc6a9a85a6aa69f1_BarbarianSwordGold.png",
+        imageweaponwoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e81d8a5cc9360adcc2fe58_BarbarianSwordGold.png",
+        imageweaponwoman3: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63e82374c21faaf557b8b7e2_BarbarianSwordGold.png",
+        textweaponwoman: "Barbarian Sword Gold"
     }
 ];
 
@@ -953,10 +953,10 @@ const nextSlideWeaponWoman = () => {
 };
 
 const updateSlideWeaponWoman = () => {
-    document.getElementById("imageweaponwoman1").src = slidesWeaponWoman[currentSlideWeaponWoman].imageweapon1;
-    document.getElementById("imageweaponwoman2").src = slidesWeaponWoman[currentSlideWeaponWoman].imageweapon2;
-    document.getElementById("imageweaponwoman3").src = slidesWeaponWoman[currentSlideWeaponWoman].imageweapon3;
-    document.getElementById("textweaponwoman").textContent = slidesWeaponWoman[currentSlideWeaponWoman].textweapon;
+    document.getElementById("imageweaponwoman1").src = slidesWeaponWoman[currentSlideWeaponWoman].imageweaponwoman1;
+    document.getElementById("imageweaponwoman2").src = slidesWeaponWoman[currentSlideWeaponWoman].imageweaponwoman2;
+    document.getElementById("imageweaponwoman3").src = slidesWeaponWoman[currentSlideWeaponWoman].imageweaponwoman3;
+    document.getElementById("textweaponwoman").textContent = slidesWeaponWoman[currentSlideWeaponWoman].textweaponwoman;
 };
 
 document.getElementById("previousweaponwoman").addEventListener("click", previousSlideWeaponWoman);
