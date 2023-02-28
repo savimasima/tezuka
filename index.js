@@ -841,17 +841,17 @@ const slidesEyeWoman = [
     },
     {
         imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f79cbfd6198a7762097688_LavanderEyes.webp",
-        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f7d957413caf234bb63012_LavanderEyes.webp",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63fe262c1e1091742ac986d9_LavanderEyes.webp",
         texteyewoman: "Lavander Eyes"
     },
     {
         imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f79ccb54526fc467ce774b_RedEyes.webp",
-        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f7d96a9148f1c5d42f8bf2_RedEyes.webp",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63fe2620f741e3d9d2a24bf2_RedEyes.webp",
         texteyewoman: "Red Eyes"
     },
     {
         imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f79cc49f1bdf477a613360_PinkEyes.webp",
-        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f7d96a50631fc1b682a9ed_PinkEyes.webp",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63fe26266b50359288923001_PinkEyes.webp",
         texteyewoman: "Pink Eyes"
     }
 ];
