@@ -831,7 +831,7 @@ const slidesEyeWoman = [
     },
     {
         imageeyewoman1: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f79cbcf34222683ca064d3_BlueEyes.webp",
-        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63f7d9534632341f7533fa26_BlueEyes.webp",
+        imageeyewoman2: "https://uploads-ssl.webflow.com/63c2918923be3c4921dc1f40/63fe2b02d0d4eaed3896be33_BlueEyes.webp",
         texteyewoman: "Blue Eyes"
     },
     {
